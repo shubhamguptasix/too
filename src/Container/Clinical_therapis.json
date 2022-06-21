@@ -1,0 +1,233 @@
+{
+            "key": "697f42b71a4d09dedcc3dc0928dfa6d6",
+            "type": "indel",
+            "method": "insertion",
+            "gene": "TP53",
+            "name": "L257fs",
+            "value": "11.6%",
+            "detected": true,
+            "relevance": 4,
+            "rank": 1,
+            "line": 1,
+            "indel": {
+                "cfdnaPercentage": 11.6,
+                "exon": "7",
+                "cdna": "c.767_768insTT",
+                "chromosome": "17",
+                "aminoAcidMutation": "L257fs",
+                "nucleotideMutation": "T>TAA",
+                "position": 7577513,
+                "length": 2,
+                "transcriptId": "NM_000546.5",
+                "reportingCategory": "protein_coding"
+            },
+            "treatment": {
+                "trialAvailable": true,
+                "therapies": [
+                    {
+                        "drug": "Adavosertib",
+                        "rationale": "Wee1 tyrosine kinase inhibitor.",
+                        "disease": "Non-small cell lung carcinoma (NSCLC)",
+                        "status": "Phase 2",
+                        "otherDiseases": "Embryonal tumor with multi-layered rosettes (ETMR), Medulloblastoma, Small cell lung carcinoma (SCLC), Solid Tumor, Primary myelofibrosis (PMF), Ovarian carcinosarcoma, Acute myeloid leukemia (AML), MDS/MPN, unclassifiable, Chronic myelomonocytic leukemia (CMML), Peritoneal papillary serous carcinoma, Myelodysplastic Syndrome (MDS)",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "Alisertib",
+                        "rationale": "Aurora A small molecule kinase inhibitor.",
+                        "disease": "Non-small cell lung carcinoma (NSCLC)",
+                        "status": "Phase 2",
+                        "otherDiseases": "Peripheral T-cell lymphoma (PTCL)",
+                        "otherStatus": "Phase 3"
+                    },
+                    {
+                        "drug": "AMG 900",
+                        "rationale": "Aurora A, B, C small molecule kinase inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Acute myeloid leukemia (AML)",
+                        "otherStatus": "Phase 1"
+                    },
+                    {
+                        "drug": "AT9283",
+                        "rationale": "Aurora A, B, Jak2, Jak3, Bcr-Abl kinase inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Acute myeloid leukemia (AML), Multiple myeloma (MM), Acute lymphoblastic leukemia (ALL)",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "AZD2811",
+                        "rationale": "Nanoparticle formulation of Aurora kinase B inhibitor barasertib (AZD1152).",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Acute myeloid leukemia (AML), Myelodysplastic Syndrome (MDS)",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "Debio 0123",
+                        "rationale": "Wee1 tyrosine kinase inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1"
+                    },
+                    {
+                        "drug": "ENMD-2076",
+                        "rationale": "Aurora A kinase inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Fibrolamellar hepatocellular carcinoma, Ovarian carcinoma, Breast carcinoma, Fallopian tube adenocarcinoma, Sarcoma",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "Kevetrin",
+                        "rationale": "Blocks Mdm2-p53 interaction, restoring transcriptional activity of p53.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Ovarian carcinoma",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "LY3295668",
+                        "rationale": "Aurora kinase A-specific inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Head and neck squamous cell carcinoma (HNSCC), Small cell lung carcinoma (SCLC), Breast carcinoma (triple negative), Breast carcinoma (hormone receptor +, HER2-)",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "SGT-53",
+                        "rationale": "TP53 gene therapy delivered via transferrin-targeted nanoparticles.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Glioblastoma, Glioma, Pancreatic carcinoma",
+                        "otherStatus": "Phase 2"
+                    },
+                    {
+                        "drug": "SNS-314",
+                        "rationale": "Aurora kinase A/B inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1"
+                    },
+                    {
+                        "drug": "TAS-119",
+                        "rationale": "Selective Aurora A kinase inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1"
+                    },
+                    {
+                        "drug": "TT-00420",
+                        "rationale": "Aurora kinase A/B inhibitor.",
+                        "disease": "Solid Tumor",
+                        "status": "Phase 1",
+                        "otherDiseases": "Breast carcinoma (triple negative)",
+                        "otherStatus": "Phase 1"
+                    }
+                ],
+                "clinicalRelevances": [
+                    {
+                        "roleInDisease": "Loss of tumor suppressor p53, which is encoded by the TP53 gene, is common in aggressive advanced cancers. (Brown C et al., 2009; 19935675). Carriers of a germline mutation in TP53 have Li-Fraumeni Syndrome, an inherited cancer syndrome resulting in multiple tumors in early adulthood, including breast cancer, brain tumors, and leukemias. (Malkin D et al., 1990; 1978757, Srivastava S et al., 1991; 2259385, Santib'e1'f1ez-Koref M et al., 1991; 1683921). Expression of p53 in normal cells is low; however, TP53 alterations, including those that result in loss of p53 tumor suppressor function, may lead to stabilization and increased expression of p53, particularly in the nucleus, and several studies have shown that it may have oncogenic gain-of-function effects. (Wang Y et al., 2005; 15625370, Koga T et al., 2001; 11400116, Kato S et al., 2003; 12826609, Houben R et al., 2011; 21760960, Olivier M et al., 2009; 18802452). TP53 alterations are believed to be early events in NSCLC, preceding lymph node metastasis. (Chang Y et al., 2011; 20811949). TP53 mutation and expression of p53 have been correlated with the lung squamous cell carcinoma subtype, and p53 expression in lung squamous cell carcinoma has also been associated with disease stage and higher grade tumors. (Jiang R et al., 2020; 32034196, Mattioni M et al., 2015; 25884692, Bircan A et al., 2010; 20349288, Kim Y et al., 2014; 24323028). TP53 mutation has been associated with PD-L1 expression and T-cell infiltration in lung adenocarcinoma samples. (Dong Z et al., 2017; 28039262, Scheel A et al., 2016; 27467949, Albitar M et al., 2018; 29568386, Mansuet-Lupo A et al., 2016; 27299180, Kadara H et al., 2017; 27687306).",
+                        "drugSensitivity": "At present, there are no approved therapies targeting TP53 alterations, despite their high prevalence in cancer. Therapeutic approaches under investigation include gene therapy for TP53 and (dendritic cell-based) TP53 vaccines. (Schuler P et al., 2014; 24583792, Vermeij R et al., 2011; 21541192, Saito H et al., 2014; 24982341). Inhibition of components of the DNA damage checkpoint, including Checkpoint Kinase 1 (Chk1) and Wee1, has been reported to enhance the activity of DNA-damaging agents in preclinical cancer models with deficiency of p53 function. (Ma C et al., 2011; 21087899, Hirai H et al., 2010; 20107315, Bridges K et al., 2011; 21799033). Clinical trials of the Wee1 inhibitor adavosertib (MK-1775) are currently underway for patients with solid tumors and hematologic malignancies. Studies have reported Aurora kinase A to be activated in cells harboring TP53 mutation, and Aurora kinase A and B inhibitors have been reported to activate wild-type p53 in cellular assays; thus, tumors retaining a wild-type TP53 allele may benefit from Aurora kinase inhibitors. (Vilgelm A et al., 2015; 25398437, Li Z et al., 2015; 25512615, Katayama H et al., 2011; 21761334, Tentler J et al., 2015; 25758253, Gully C et al., 2012; 22611192, Marxer M et al., 2014; 23955083).",
+                        "drugResistance": "Mutations in TP53 may increase resistance to ionizing radiation therapy. (El-Deiry W, 2003; 14576853, Miyasaka A et al., 2015; 25913131)."
+                    }
+                ],
+                "biologicalSignificances": [
+                    {
+                        "content": "TP53-L257fs is an inactivating mutation. TP53 is a tumor suppressor that encodes the p53 protein; alterations in TP53 may result in a loss of p53 function, yet an increase in the expression and stability of the mutant p53 protein in the nucleus, sometimes leading to oncogenic effects, including genomic instability and excessive cell proliferation (Levine, 1997; 9039259, Wang et al., 2005; 15625370, Koga et al., 2001; 11400116, Kato et al., 2003; 12826609, Houben et al., 2011; 21760960, Olivier et al., 2009; 18802452). At present, there are no approved therapies targeting TP53 alterations, despite their high prevalence in cancer. Therapeutic approaches under investigation include gene therapy for TP53 and (dendritic cell-based) TP53 vaccines (Schuler et al., 2014; 24583792, Vermeij et al., 2011; 21541192, Saito et al., 2014; 24982341). Tumors with TP53 mutations may be sensitive to the Wee1 inhibitor adavosertib (MK-1775), and clinical trials are currently underway for patients with solid tumors and hematologic malignancies (Hirai et al., 2010; 20107315, Bridges et al., 2011; 21799033). Aurora kinase A inhibitors are another therapeutic approach under investigation for TP53-mutated cancers (Vilgelm et al., 2015; 25398437, Li et al., 2015; 25512615, Katayama and Sen, 2011; 21761334, Tentler et al., 2015; 25758253, Kalous et al., 2013; 24091768).",
+                        "molecularFunction": "The frameshift alteration reported here is expected to effectively truncate the p53 protein within the DNA-binding domain (DBD), resulting in the loss of a portion of the DBD and the entire tetramerization domain (Joerger and Fersht, 2008; 18410249). DBD mutations are thought to result in loss of function via the loss of transactivation of p53-dependent genes (Kato et al., 2003; 12826609). The tetramerization domain is thought to be critical to normal p53 function (Kamada et al., 2011; 20978130). In addition, this alteration is likely to elicit nonsense-mediated decay (Lindeboom et al., 2016; 27618451, Popp and Maquat, 2018; 29121514, Nagy and Maquat, 1998; 9644970, Richards et al., 2015; 25741868). Therefore, this mutation is predicted to lead to a loss of function.",
+                        "incidence": "TP53 mutations have been reported in 40% (1815/4546) of Lung adenocarcinoma samples analyzed in COSMIC (May 2020). TP53 mutations have been reported in 39-53% of Lung adenocarcinoma samples (cBioPortal for Cancer Genomics, May 2020). TP53 is one of the most commonly mutated genes in lung cancer; scientific studies have reported TP53 mutations in 27-46% of non-small cell lung carcinoma (NSCLC) cases (M'e4ki-Nevala et al., 2016; 27565922, Jiang et al., 2020; 32034196, Tamiya et al., 2020; 32022477, Ma et al., 2014; 24495481)."
+                    }
+                ],
+                "clinicalTrials": [
+                    {
+                        "trialId": "NCT03654547",
+                        "title": "Safety of TT-00420 Monotherapy in Patients With Advanced Solid Tumors and Triple Negative Breast Cancer",
+                        "phase": "Phase 1",
+                        "contact": "Overall contact: Peng Peng, Ph.D.,peng_peng@transtherabio.com,86 25 86901107",
+                        "sites": [
+                            {
+                                "center": "MD Anderson Cancer Center",
+                                "contact": "Rabia Khan",
+                                "investigator": "Sarina A Piha-Paul, MD",
+                                "status": "Recruiting",
+                                "prioritization": "regionally, clinically",
+                                "address": {
+                                    "city": "Houston",
+                                    "state": "Texas",
+                                    "country": "United States",
+                                    "postalCode": "77030"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "trialId": "NCT03968653",
+                        "title": "Study of Oral Debio 0123 in Combination With Carboplatin in Participants With Advanced Solid Tumors",
+                        "phase": "Phase 1",
+                        "contact": "Overall contact: Debiopharm International S.A,clinicaltrials@debiopharm.com,+41 21 321 01 11",
+                        "sites": [
+                            {
+                                "center": "University Medical Center Groningen",
+                                "status": "Recruiting",
+                                "prioritization": "regionally, clinically",
+                                "address": {
+                                    "city": "Groningen",
+                                    "country": "Netherlands",
+                                    "postalCode": "9713"
+                                }
+                            },
+                            {
+                                "center": "Leiden University Medical Center, Dept. of Clinical Oncology",
+                                "status": "Recruiting",
+                                "prioritization": "regionally, clinically",
+                                "address": {
+                                    "city": "Leiden",
+                                    "country": "Netherlands",
+                                    "postalCode": "2333"
+                                }
+                            },
+                            {
+                                "center": "Radboud university medical center",
+                                "status": "Recruiting",
+                                "prioritization": "regionally, clinically",
+                                "address": {
+                                    "city": "Nijmegen",
+                                    "country": "Netherlands",
+                                    "postalCode": "6525"
+                                }
+                            },
+                            {
+                                "center": "Hospital Vall Hebr'f3n, Unidad de Investigaci'f3n en Terapia Molecular (UITM)",
+                                "status": "Recruiting",
+                                "prioritization": "regionally, clinically",
+                                "address": {
+                                    "city": "Barcelona",
+                                    "country": "Spain",
+                                    "postalCode": "08035"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "trialId": "NCT04555837",
+                        "title": "Alisertib and Pembrolizumab for the Treatment of Patients With Rb-deficient Head and Neck Squamous Cell Cancer",
+                        "phase": "Phase 1/Phase 2",
+                        "contact": "Overall contact: Faye M. Johnson,fmjohns@mdanderson.org,713-792-6363",
+                        "sites": [
+                            {
+                                "center": "M D Anderson Cancer Center",
+                                "contact": "Faye M. Johnson",
+                                "investigator": "Faye M. Johnson",
+                                "status": "Recruiting",
+                                "prioritization": "regionally, clinically",
+                                "address": {
+                                    "city": "Houston",
+                                    "state": "Texas",
+                                    "country": "United States",
+                                    "postalCode": "77030"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }

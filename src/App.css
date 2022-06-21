@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.APP_show{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+thead.MuiTableHead-root.css-15wwp11-MuiTableHead-root {
+  background: #b2bec3;
+}
+.head_color{
+  color:  #182C61;
+  font-weight: 500;
+}
+p.MuiTypography-root.MuiTypography-body1.css-ahj2mt-MuiTypography-root {
+  color: #2d82d5;
+}
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-v84d5j-MuiSvgIcon-root {
+  color: #2d82d5;
+}
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-1p7cxid-MuiSvgIcon-root {
+  color: #2d82d5;
+}
+.showContent{
+  justify-content: flex-start !important;
+  padding-left: 0 !important;
+}
+.showContent .MuiAccordionSummary-content{
+max-width: 105px;
+margin-left: 0px !important;
+}
